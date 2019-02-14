@@ -39,4 +39,4 @@ The React app was initially created using the `create-react-app` command.
 
 ## Deploying 
 
-The app is configured to seamlessly run on [https://render.com/](Render). Make sure that front end assets are rendered in the branch you are deploying. 
+The app is configured to seamlessly run on [https://render.com/](https://render.com/). Make sure that front end assets are rendered in the branch you are deploying. 
